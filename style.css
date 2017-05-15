@@ -1,5 +1,8 @@
 * {
   padding: 0;
   margin: 0;
-  font: "Raleway", sans-serif;
+}
+
+h1.header {
+  font: "Lobster"
 }
